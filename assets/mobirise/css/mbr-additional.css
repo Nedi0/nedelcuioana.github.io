@@ -3437,66 +3437,6 @@ a {
 .cid-tYfQ1UeUJE .mbr-section-title {
   color: #fdae00;
 }
-.cid-tYfQ3rENJA {
-  display: flex;
-  padding-top: 14rem;
-  padding-bottom: 2rem;
-}
-@media (min-width: 768px) {
-  .cid-tYfQ3rENJA {
-    align-items: flex-end;
-  }
-  .cid-tYfQ3rENJA .row {
-    justify-content: center;
-  }
-  .cid-tYfQ3rENJA .content-wrap {
-    padding: 1rem 3rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-tYfQ3rENJA .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tYfQ3rENJA {
-    -webkit-align-items: center;
-    align-items: flex-end;
-  }
-  .cid-tYfQ3rENJA .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-tYfQ3rENJA .content-wrap {
-    width: 100%;
-  }
-}
-.cid-tYfQ3rENJA .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tYfQ3rENJA .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-tYfQ3rENJA .mbr-section-title,
-.cid-tYfQ3rENJA .mbr-section-subtitle {
-  text-align: left;
-  color: #ffc091;
-}
-.cid-tYfQ3rENJA .mbr-text,
-.cid-tYfQ3rENJA .mbr-section-btn {
-  text-align: left;
-}
-.cid-tYfQ3rENJA .mbr-section-title {
-  color: #fdae00;
-  text-align: center;
-}
 .cid-tYfS7yunYQ {
   padding-top: 6rem;
   padding-bottom: 6rem;
